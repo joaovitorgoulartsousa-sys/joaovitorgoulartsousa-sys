@@ -119,6 +119,6 @@ Me chamo João Vitor de Souza Goulart, tenho 19 anos e sou de Campinas-SP. Concl
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorgoulartsousa-sys&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+/>
 
 </p>
